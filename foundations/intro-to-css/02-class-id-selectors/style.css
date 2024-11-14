@@ -1,5 +1,5 @@
-p {
-    color: black;
+.odd {
+    color: rgb(0,0,0);
     background-color: #ff002f80;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
@@ -7,7 +7,7 @@ p {
     font-size:24px;
 }
 #two {
-    color: blue;
+    color: rgb(0,0,225);
     font-size: 36px;
 }
 #four{
